@@ -23,5 +23,5 @@ I'm a graduate of Amikom University majoring in Informatics. I am a Full stack d
 
 Languages and Tools:
 
-Java   JavaScript   Python   C   Android   HTML5   CSS3   jQuery   Bootstrap   MySQL   Git   GitHub 
+JavaScript HTML5   CSS3   jQuery   MySQL   Git   GitHub 
 
